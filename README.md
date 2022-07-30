@@ -5,7 +5,7 @@
 ## Hello 
 My name is Hyemin Wang 🙋‍♀️ <br/>
 I used to study **Java** with **Spring Framework**<br/>
-As `Back-end Developer`, I'm in charge of IT development in <a href="http://www.4-lab.com/">FourLab</a><br/>.
+As `Back-end Developer`, I'm in charge of IT development in <a href="http://www.4-lab.com/">FourLab</a>.<br/>
 <br/>
 ### ⚙ Tech Stack ⚙ <br/><br/>
 
@@ -34,6 +34,8 @@ As `Back-end Developer`, I'm in charge of IT development in <a href="http://www.
 <a href="mailto:hyemin95928@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a> <a href="https://velog.io/@hyemin95928"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>  <a href="https://github.com/Wanghyemin"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
 
 </div>
+
+
 
 <!--
 **Wanghyemin/Wanghyemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

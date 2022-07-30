@@ -3,8 +3,10 @@
 <div align="center">
 
 ## Hello 
-My name is Hyemin Wang 🙋‍♀️ <br/><br/><br/>
- 
+My name is Hyemin Wang 🙋‍♀️ <br/>
+I used to study **Java** with **Spring Framework**<br/>
+As `Back-end Developer`, I'm in charge of IT development in <a href="http://www.4-lab.com/">FourLab</a><br/>.
+<br/>
 ### ⚙ Tech Stack ⚙ <br/><br/>
 
 ⌛ **used as the main**

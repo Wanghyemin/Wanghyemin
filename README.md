@@ -15,7 +15,12 @@
   <br/>
 
 ---
+  <div>
+    
   ### ⚙ Skills
+
+  <!-- 이미지 -->
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghyemin&layout=donut&hide=css,html" alt="Top Languages">
    
   📌 **Backend**
   <br/>
@@ -45,4 +50,6 @@
   <img src="https://img.shields.io/badge/gitlab-E34930?style=flat-square&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white">  
   <br/>
+
+  </div>
 </div>

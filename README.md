@@ -17,12 +17,11 @@
 ---
   <div>
     
-  ### ⚙ Skills
-
   <!-- 이미지 -->
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghyemin&layout=donut&hide=css,html" alt="Top Languages">
-   
-  📌 **Backend**
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghyemin&layout=donut-vertical&hide=css,html" alt="Top Languages">
+  
+  ### ⚙ Skills
+   **Backend**
   <br/>
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -30,7 +29,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <br/>
  
-  📌 **Frontend**
+   **Frontend**
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> 
   <img src="https://img.shields.io/badge/Typescript-3179C7?style=flat-square&logo=typescript&logoColor=white">
@@ -38,14 +37,14 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white">
   <br/>
 
-  📌 as **Sub**
+   as **Sub**
   <br/>
   <img src="https://img.shields.io/badge/Python-3974A4?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-113527?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-FEC71B?style=flat-square&logo=elasticsearch&logoColor=white">
   <br/>
 
-  📌 etc
+   etc
   <br/>
   <img src="https://img.shields.io/badge/gitlab-E34930?style=flat-square&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white">  

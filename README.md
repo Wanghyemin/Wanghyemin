@@ -1,54 +1,40 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:44DCCF,100:a82da8&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff)
+<div>
+  <a href="mailto:hyemin95928@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> 
+  <a href="https://github.com/Wanghyemin"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"></a>
+  <!-- <a href="https://velog.io/@hyemin95928"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>   -->
+  <img src="https://img.shields.io/badge/Tech Blog-EAEAEA?style=flat-square&logo=Velog&logoColor=white">
+  <br/>
+  ---
 
-<div align="center">
-
-## Hello, My name is Hyemin Wang 🙋‍♀️ <br/>
-I used to study **Java** with **SpringBoot Framework**<br/>
-As `Back-end Developer`, I'm in charge of IT development at <a href="http://www.4-lab.com/">FourLab</a>.<br/>
-<br/>
-## ⚙ Tech Stack ⚙ <br/>
-
-⌛ **used as the main**
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-
-<br/>
-
-⏳ **used as the sub**
-<br/><br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-
-<br/><br/>
+  안녕하세요. 백엔드 개발자로 성장중인 2년차 개발자 **왕혜민**입니다.<br/>
+  Java 기반의 Spring, SpringBoot 프로젝트를 다수 참여하였고,<br/>
+  Typescript 기반의 React, Next.js와 JSP 또한 개발한 풀스택 개발자입니다.<br/>
+  <br/>
+  
+  Hello, I'm Hyemin Wang, 2nd years Full-stack Developer 🙋‍♀️ <br/>
+  I'm using **Java** with **Spring and SpringBoot Framework**<br/>
+  <br/>
+  ### ⚙ Skills
+  
+  **Backend**
+  <br/>
+  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <br/>
  
+  **Frontend**
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=typescript&logoColor=white&color=3179C7">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
+  <img src="https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js&logoColor=white">
+  <br/>
 
-## ✨ Contact Me ✨
-<a href="mailto:hyemin95928@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a> <a href="https://velog.io/@hyemin95928"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>  <a href="https://github.com/Wanghyemin"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
-
+  learning to be **Good Developer**
+  <br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white&color=3974A4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-white?style=flat-square&logo=elasticsearch&logoColor=white&color=FEC71B">
+  <br/>
 </div>
-
-
-
-<!--
-**Wanghyemin/Wanghyemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
